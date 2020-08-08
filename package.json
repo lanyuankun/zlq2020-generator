@@ -1,0 +1,16 @@
+{
+  "name": "generator-zlq2020",
+  "version": "1.0.0",
+  "description": "generator",
+  "main": "index.js",
+  "dependencies": {
+    "yeoman-generator": "^4.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zlq",
+  "license": "ISC",
+  "repository": "https://github.com/lanyuankun/zlq2020-generator.git"
+}
